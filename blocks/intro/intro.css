@@ -1,0 +1,26 @@
+.intro {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 984px;
+  }
+  
+  @media screen and (max-width: 1152px) {
+    .intro {
+      width: 928px;
+    }
+  }
+  
+  @media screen and (max-width: 896px) {
+    .intro {
+      align-items: center;
+      width: 768px;
+    }
+  }
+  
+  @media screen and (max-width: 544px) {
+    .intro {
+      align-items: center;
+      width: 320px;
+    }
+  }
