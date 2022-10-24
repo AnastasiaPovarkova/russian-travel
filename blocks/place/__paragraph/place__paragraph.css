@@ -1,0 +1,10 @@
+.place__paragraph {
+    margin: 0 0 26px;
+    width: 484px;
+    min-height: 116px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29px; /* or 163% */
+}

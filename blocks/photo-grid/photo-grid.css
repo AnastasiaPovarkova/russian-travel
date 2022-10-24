@@ -1,0 +1,36 @@
+.photo-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    gap: 16px;
+    padding: 0px 48px 0;
+}
+
+@media screen and (max-width: 1152px) {
+  .photo-grid {
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    gap: 14px;
+  }
+}
+  
+@media screen and (max-width: 896px) {
+  .photo-grid {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    gap: 24px;
+    padding: 0px 16px 0;
+  }
+}
+  
+@media screen and (max-width: 544px) {
+  .photo-grid {
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(12, 1fr);
+    gap: 12px;
+    padding: 0px 16px 0;
+  }
+}

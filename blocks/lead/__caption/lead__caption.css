@@ -2,7 +2,7 @@
   margin: 8px 0 0 0;
   padding: 0;
   align-self: flex-start;
-  width: 158px;
+  min-width: 158px;
   height: 14px;
 
   font-family: 'Inter';
@@ -17,14 +17,14 @@
 
 @media screen and (max-width: 1152px) {
   .lead__caption {
-    width: 158px;
+    min-width: 158px;
     height: 14px;
   }
 }
 
 @media screen and (max-width: 896px) {
   .lead__caption {
-    width: 158px;
+    min-width: 158px;
     height: 14px;
     margin-left: 24px;
   }
@@ -32,7 +32,7 @@
 
 @media screen and (max-width: 544px) {
   .lead__caption {
-    width: 158px;
+    min-width: 158px;
     height: 14px;
     margin-left: 16px;
   }
