@@ -15,14 +15,14 @@
   text-transform: uppercase;
 }
 
-@media screen and (max-width: 1152px) {
+@media screen and (max-width: 1185px) {
   .lead__caption {
     min-width: 158px;
     height: 14px;
   }
 }
 
-@media screen and (max-width: 896px) {
+@media screen and (max-width: 940px) {
   .lead__caption {
     min-width: 158px;
     height: 14px;

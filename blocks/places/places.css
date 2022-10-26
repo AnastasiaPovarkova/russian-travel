@@ -1,28 +1,30 @@
 .places {
+  margin: 0;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  margin: 0 148px 0;
+  /*align-items: center;*/
+  padding: 0 148px 0;
   row-gap: 80px;
+  box-sizing: border-box;
 }
 
-@media screen and (max-width: 1152px) {
+@media screen and (max-width: 1185px) {
   .places {
-    margin: 0 48px 0;
+    padding: 0 48px 0;
     row-gap: 80px;
   }
 }
 
-@media screen and (max-width: 896px) {
+@media screen and (max-width: 940px) {
   .places {
-    margin: 0 24px 0;
+    padding: 0 24px 0;
     row-gap: 73px;
   }
 }
 
 @media screen and (max-width: 544px) {
   .places {
-    margin: 0 16px 0;
+    padding: 0;
     row-gap: 50px;
   }
 }

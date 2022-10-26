@@ -6,3 +6,26 @@
   max-height: 100%;
   object-fit: cover;
 }
+
+@media screen and (max-width: 1185px) {
+  .place__image {
+    width: 440px;
+    height: 440px;
+  }
+}
+  
+@media screen and (max-width: 940px) {
+  .place__image {
+    width: 340px;
+    height: 340px;
+    object-fit: contain;
+    min-height: 0;
+  }
+}
+  
+@media screen and (max-width: 544px) {
+  .place__image {
+    width: 320px;
+    height: 320px;
+  }
+}

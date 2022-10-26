@@ -8,3 +8,24 @@
     font-size: 18px;
     line-height: 29px; /* or 163% */
 }
+
+@media screen and (max-width: 1185px) {
+  .place__paragraph {
+    width: 456px;
+  }
+}
+  
+@media screen and (max-width: 940px) {
+  .place__paragraph {
+    margin: 0 0 25px;
+    width: 352px;
+    font-size: 16px;
+  }
+}
+  
+@media screen and (max-width: 544px) {
+  .place__paragraph {
+    width: 288px;
+    padding: 0 16px 0;
+  }
+}

@@ -5,13 +5,13 @@
     width: 984px;
   }
   
-  @media screen and (max-width: 1152px) {
+  @media screen and (max-width: 1185px) {
     .intro {
       width: 928px;
     }
   }
   
-  @media screen and (max-width: 896px) {
+  @media screen and (max-width: 940px) {
     .intro {
       align-items: center;
       width: 768px;

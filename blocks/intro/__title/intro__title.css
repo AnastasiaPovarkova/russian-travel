@@ -9,7 +9,7 @@
   line-height: 58px; /* identical to box height, or 107% */
 }
 
-@media screen and (max-width: 896px) {
+@media screen and (max-width: 940px) {
   .intro__title {
     width: 720px;
     height: 58px;

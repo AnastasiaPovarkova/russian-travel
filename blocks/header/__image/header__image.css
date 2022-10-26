@@ -1,0 +1,12 @@
+.header__image {
+  display: flex;
+  width: 176px;
+  height: 52px;
+}
+
+@media screen and (max-width: 544px) {
+  .header__image {
+    width: 142px;
+    height: 42px;
+  }
+}

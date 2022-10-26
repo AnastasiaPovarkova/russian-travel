@@ -11,7 +11,7 @@
   line-height: 18px; /* or 150% */
 }
 
-@media screen and (max-width: 896px) {
+@media screen and (max-width: 940px) {
   .intro__list {
     width: 720px;
     height: 90px;

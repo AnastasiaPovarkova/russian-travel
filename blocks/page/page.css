@@ -1,7 +1,7 @@
 .page {
   background-color: #2A2C2F;
   color: #fff;
-  /*min-width: 320px;*/
+  min-width: 320px;
   max-width: 1280px;
   margin: 0 auto 0;
   padding: 28px 0 24px;
@@ -12,13 +12,13 @@
   box-sizing: border-box;
 }
 
-@media screen and (max-width: 1152px) {
+@media screen and (max-width: 1185px) {
   .page {
     min-width: 928px;
   }
 }
 
-@media screen and (max-width: 896px) {
+@media screen and (max-width: 940px) {
   .page {
     min-width: 768px;
   }
@@ -27,5 +27,6 @@
 @media screen and (max-width: 544px) {
   .page {
     min-width: 320px;
+    padding: 16px 0 24px;
   }
 }
