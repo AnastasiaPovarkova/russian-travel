@@ -1,8 +1,6 @@
 .intro__text {
   margin: 40px 0 0;
-  width: 690px;
-  height: 208px;
-  font-family: 'Inter';
+  max-width: 690px;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -11,14 +9,12 @@
 
 @media screen and (max-width: 940px) {
   .intro__text {
-    width: 720px;
-    height: 208px;
+    max-width: 720px;
   }
 }
 
 @media screen and (max-width: 544px) {
   .intro__text {
-    width: 288px;
-    height: 520px;
+    max-width: 288px;
   }
 }

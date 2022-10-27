@@ -7,11 +7,13 @@
     box-sizing: border-box;
     gap: 16px;
     padding: 0px 48px 0;
+    width: 100%;
+    justify-items: center;
 }
 
 @media screen and (max-width: 1185px) {
   .photo-grid {
-    grid-template-columns: repeat(3, 300px);
+    grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(4, 1fr);
     gap: 14px;
   }
@@ -21,8 +23,8 @@
   .photo-grid {
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(6, 1fr);
-    gap: 24px;
-    padding: 0px 16px 0;
+    gap: 16px;
+    padding: 0px 24px 0;
   }
 }
   

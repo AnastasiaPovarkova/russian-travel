@@ -1,29 +1,27 @@
 .photo-grid__item {
-  width: 284px;
-  height: 213px;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
+  max-width: 284px;
+  max-height: 213px;
   box-sizing: border-box;
   margin: 0;
 }
 
 @media screen and (max-width: 1185px) {
   .photo-grid__item {
-    width: 300px;
-    height: 225px;
+    max-width: 300px;
+    max-height: 225px;
   }
 }
   
 @media screen and (max-width: 940px) {
   .photo-grid__item {
-    width: 352px;
-    height: 264px;
+    max-width: 352px;
+    max-height: 264px;
   }
 }
   
 @media screen and (max-width: 544px) {
   .photo-grid__item {
-    width: 288px;
-    height: 216px;
+    max-width: 288px;
+    max-height: 216px;
   }
 }

@@ -1,31 +1,29 @@
 .place__image {
-  width: 460px;
-  height: 460px;
+  max-width: 460px;
+  max-height: 460px;
   width: 100%;
-  min-height: 100%;
   max-height: 100%;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 @media screen and (max-width: 1185px) {
   .place__image {
-    width: 440px;
-    height: 440px;
+    max-width: 440px;
+    max-height: 440px;
   }
 }
   
 @media screen and (max-width: 940px) {
   .place__image {
-    width: 340px;
-    height: 340px;
-    object-fit: contain;
+    max-width: 340px;
+    max-height: 340px;
     min-height: 0;
   }
 }
   
 @media screen and (max-width: 544px) {
   .place__image {
-    width: 320px;
-    height: 320px;
+    max-width: 320px;
+    max-height: 320px;
   }
 }

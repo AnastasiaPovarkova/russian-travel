@@ -2,29 +2,31 @@
   margin: 0;
   display: flex;
   flex-direction: column;
-  /*align-items: center;*/
+  align-items: center;
   padding: 0 148px 0;
-  row-gap: 80px;
+  gap: 80px;
   box-sizing: border-box;
+  width: 100%;
+  font-family: 'Inter', Arial, sans-serif;
 }
 
 @media screen and (max-width: 1185px) {
   .places {
     padding: 0 48px 0;
-    row-gap: 80px;
+    gap: 80px;
   }
 }
 
 @media screen and (max-width: 940px) {
   .places {
     padding: 0 24px 0;
-    row-gap: 73px;
+    gap: 73px;
   }
 }
 
 @media screen and (max-width: 544px) {
   .places {
     padding: 0;
-    row-gap: 50px;
+    gap: 50px;
   }
 }

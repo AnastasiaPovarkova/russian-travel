@@ -1,8 +1,6 @@
 .footer__copyright {
   margin: 0;
   /*width: 186px;*/
-  height: 16px;
-  font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -11,7 +9,6 @@
 
 @media screen and (max-width: 544px) {
   .footer__copyright {
-  height: 14px;
   line-height: 14px; /* identical to box height, or 100% */
   }
 }
