@@ -22,4 +22,4 @@
 
 **GitHub Pages**
 
-* [Ссылка на GitHub Pages](https://github.com/AnastasiaPovarkova/russian-travel)
+* [Ссылка на GitHub Pages](https://anastasiapovarkova.github.io/russian-travel/)
