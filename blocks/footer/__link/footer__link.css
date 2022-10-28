@@ -17,7 +17,6 @@
 
 @media screen and (max-width: 544px) {
   .footer__link {
-    min-width: 50px;
     font-size: 24px;
     line-height: 24px; /* identical to box height, or 100% */
   }

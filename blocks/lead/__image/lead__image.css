@@ -2,6 +2,7 @@
   margin: 64px 0 0;
   max-height: 615px;
   object-fit: cover;
+  display: block;
 }
 
 @media screen and (max-width: 1185px) {
@@ -21,6 +22,5 @@
 @media screen and (max-width: 544px) {
   .lead__image {
     margin: 40px 0 0;
-    max-height: 200px;
   }
 }
