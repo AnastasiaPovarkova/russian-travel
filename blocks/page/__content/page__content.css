@@ -14,8 +14,8 @@
   }
 }
 
-@media screen and (max-width: 544px) {
+@media screen and (max-width: 580px) {
   .page__content {
-    margin: 48px 0 48px;
+    margin: 48px 0 64px;
   }
 }

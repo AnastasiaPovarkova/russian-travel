@@ -1,28 +1,21 @@
 .place__paragraph {
   margin: 0 0 26px;
-  width: 484px;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
   line-height: 29px; /* or 163% */
 }
 
-@media screen and (max-width: 1185px) {
-  .place__paragraph {
-    width: 456px;
-  }
-}
   
 @media screen and (max-width: 940px) {
   .place__paragraph {
     margin: 0 0 25px;
-    width: 352px;
     font-size: 16px;
     line-height: 26px; /* or 163% */
   }
 }
   
-@media screen and (max-width: 544px) {
+@media screen and (max-width: 580px) {
   .place__paragraph {
     width: 288px;
     padding: 0 16px 0;

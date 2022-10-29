@@ -1,5 +1,6 @@
 .place {
   display: grid;
+  width: 100%;
   grid-template-columns: 460px 484px;
   grid-template-rows: 1fr 460px;
   box-sizing: border-box;
@@ -8,7 +9,7 @@
 
 @media screen and (max-width: 1185px) {
   .place {
-    grid-template-columns: 440px 456px;
+    grid-template-columns: 1fr 1.03539fr;
     grid-template-rows: 1fr 440px;
     gap: 48px 32px;
   }
@@ -16,16 +17,16 @@
 
 @media screen and (max-width: 940px) {
   .place {
-    grid-template-columns: 340px 352px;
     grid-template-rows: 46px 1fr;
     gap: 48px 28px;
   }
 }
 
-@media screen and (max-width: 544px) {
+@media screen and (max-width: 580px) {
   .place {
     grid-template-columns: 1fr;
     grid-template-rows: 35px 46px 320px 1fr;
     gap: 32px;
+    justify-items: center;
   }
 }

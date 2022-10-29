@@ -5,10 +5,12 @@
   font-weight: 400;
   font-size: 14px;
   line-height: 16px; /* identical to box height, or 114% */
+  text-align: end;
 }
 
-@media screen and (max-width: 544px) {
+@media screen and (max-width: 580px) {
   .footer__copyright {
   line-height: 14px; /* identical to box height, or 100% */
+  text-align: left;
   }
 }

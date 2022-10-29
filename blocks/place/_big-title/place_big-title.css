@@ -1,0 +1,14 @@
+@media screen and (max-width: 750px) {
+  .place_big-title {
+    grid-template-rows: 92px 1fr;
+  }
+}
+
+@media screen and (max-width: 580px) {
+  .place_big-title {
+    grid-template-columns: 1fr;
+    grid-template-rows: 35px 46px 320px 1fr;
+    gap: 32px;
+    justify-items: center;
+  }
+}

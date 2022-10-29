@@ -1,13 +1,14 @@
 .places {
   margin: 0;
+  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 0 148px 0;
   gap: 80px;
   box-sizing: border-box;
-  width: 100%;
   font-family: 'Inter', Arial, sans-serif;
+  justify-items: center;
 }
 
 @media screen and (max-width: 1185px) {
@@ -23,7 +24,7 @@
   }
 }
 
-@media screen and (max-width: 544px) {
+@media screen and (max-width: 580px) {
   .places {
     padding: 0;
     gap: 50px;

@@ -10,10 +10,11 @@
 @media screen and (max-width: 940px) {
   .intro__text {
     max-width: 720px;
+    align-self: center;
   }
 }
 
-@media screen and (max-width: 544px) {
+@media screen and (max-width: 580px) {
   .intro__text {
     max-width: 288px;
   }

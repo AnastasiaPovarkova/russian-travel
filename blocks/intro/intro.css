@@ -16,13 +16,13 @@
   
   @media screen and (max-width: 940px) {
     .intro {
-      padding-left: 24px;
-      align-items: center;
+      padding: 0 24px 0;
     }
   }
   
-  @media screen and (max-width: 544px) {
+  @media screen and (max-width: 580px) {
     .intro {
+      align-items: center;
       padding: 0 16px 0;
     }
   }

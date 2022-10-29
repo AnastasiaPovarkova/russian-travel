@@ -9,7 +9,7 @@
   z-index: 1;
 }
     
-@media screen and (max-width: 544px) {
+@media screen and (max-width: 580px) {
   .cover__title {
     max-width: 288px;
     font-size: 32px;
