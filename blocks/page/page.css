@@ -9,7 +9,6 @@
   flex-direction: column;
   align-items: center;
   box-sizing: border-box;
-  border: red solid 1px;
 }
 
 @media screen and (max-width: 940px) {
