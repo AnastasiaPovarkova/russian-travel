@@ -21,4 +21,9 @@ ____
 * Немного JS
 
 ____
+
+**To Do**
+
+&nbsp; :white_medium_small_square: &nbsp;Добавить англоязычную версию
+____
 **GitHub Pages:** [Russian Travel](https://anastasiapovarkova.github.io/russian-travel/)
