@@ -1,6 +1,8 @@
 # Проект: Путешествие по России
 
-[![Russian Travel](./images/screensaver.png)](https://anastasiapovarkova.github.io/russian-travel)
+<a href="https://anastasiapovarkova.github.io/russian-travel/" target="_blank">
+    <img src="https://github.com/AnastasiaPovarkova/russian-travel/blob/main/images/screensaver.png?raw=true" title="Russian Travel" alt="Russian Travel"/>
+</a>
 
 ## На этом сайте читатель найдет для себя:
 
