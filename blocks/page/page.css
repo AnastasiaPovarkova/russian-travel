@@ -11,6 +11,10 @@
   box-sizing: border-box;
 }
 
+.page__no-scroll {
+  overflow: hidden;
+}
+
 @media screen and (max-width: 940px) {
   .page {
     width: 100%;

@@ -3,4 +3,27 @@
   min-height: 100%;
   max-height: 100%;
   object-fit: cover;
+  cursor: pointer;
+  transition: box-shadow 0.2s linear;
+}
+
+.photo-grid__image:hover {
+  box-shadow: 0 0 15px #000000;
+}
+
+.photo-grid__image-active {
+  padding: 8%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 10;
+  object-fit: scale-down;
+  background-color: rgba(3, 3, 3, 0.95);
+  box-sizing: border-box;
+}
+
+.photo-grid__image-active:hover {
+  box-shadow: none;
 }
