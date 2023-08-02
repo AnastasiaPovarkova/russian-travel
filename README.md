@@ -1,6 +1,6 @@
 # Проект: Путешествие по России
-____
-![Russian Travel](https://github.com/AnastasiaPovarkova/russian-travel/assets/113605691/50e898ae-748f-4327-8a16-fc1f9fcae4d8)
+
+[![Russian Travel](https://github.com/AnastasiaPovarkova/russian-travel/assets/113605691/50e898ae-748f-4327-8a16-fc1f9fcae4d8)](https://anastasiapovarkova.github.io/russian-travel)
 
 ## На этом сайте читатель найдет для себя:
 
