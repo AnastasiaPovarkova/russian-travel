@@ -1,5 +1,5 @@
 # Проект: Путешествие по России
-#### Статус: :heavy_exclamation_mark: доделать To DO
+#### Статус: доделать To Do :heavy_exclamation_mark:
 <a href="https://anastasiapovarkova.github.io/russian-travel/" target="_blank">
     <img src="https://github.com/AnastasiaPovarkova/russian-travel/blob/main/images/screensaver.png?raw=true" title="Russian Travel" alt="Russian Travel"/>
 </a>
