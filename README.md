@@ -1,5 +1,5 @@
 # Проект: Путешествие по России
-
+#### Статус: :heavy_exclamation_mark: доделать To DO
 <a href="https://anastasiapovarkova.github.io/russian-travel/" target="_blank">
     <img src="https://github.com/AnastasiaPovarkova/russian-travel/blob/main/images/screensaver.png?raw=true" title="Russian Travel" alt="Russian Travel"/>
 </a>
@@ -26,6 +26,6 @@ ____
 
 **To Do**
 
-&nbsp; :white_medium_small_square: &nbsp;Добавить англоязычную версию
+&nbsp; :small_red_triangle: &nbsp;Добавить англоязычную версию
 ____
 **GitHub Pages:** [Russian Travel](https://anastasiapovarkova.github.io/russian-travel/)
